@@ -1,0 +1,4 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+k8s/adot-collector-sa.yaml
