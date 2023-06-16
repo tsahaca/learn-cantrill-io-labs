@@ -31,3 +31,9 @@ variable tags  {
   }
 }
 
+variable "ami" {
+  description = "Amazon Linux2 AMI"
+  type        = string
+  default     = "ami-090e0fc566929d98b"
+}
+
